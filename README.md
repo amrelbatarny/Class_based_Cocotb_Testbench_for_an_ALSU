@@ -45,7 +45,7 @@ This repository contains a modular testbench for an ALSU design, structured as f
 
 ### Prerequisites
 - **Python** (3.6+)
-- **Cocotb**: [Installation Instructions](https://cocotb.readthedocs.io/en/stable/)
+- **Cocotb**: [Installation Instructions](https://cocotb.readthedocs.io/en/stable/install.html)
 - **Simulation Tool**: Questa, ModelSim, or other supported simulators
 - **Make**: For building the simulation
 
